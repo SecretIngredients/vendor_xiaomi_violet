@@ -1212,7 +1212,7 @@ PRODUCT_PACKAGES += \
     WfdService \
     dpmserviceapp \
     ims \
-    WfdCommon \    
+    WfdCommon \
     qcrilmsgtunnel \
     FingerprintExtensionService \
     PowerOffAlarm \
